@@ -1,0 +1,18 @@
+# O que deve conter no projeto:
+
+-> CRUD: Usuário (Cadastrar / Visualizar / Alterar / Remover)
+    -> atributos: Nome, Email e Senha
+
+# Login
+
+-> Realizar Login com base no email e senha
+
+!!! PONTOS IMPORTANTES !!!
+
+* Utilizar a linguagem Python
+* Utilizar Programação Orientada a Objetos
+* Utilizar o padrão MVC (Model / View / Controller)
+* Utilizar Banco de Dados (MySQL ou PostgreSQL)
+* Utilizar ORM (SQLAlchemy)
+* Criptografar a senha no Banco de Dados
+* Validação de Senha Forte
